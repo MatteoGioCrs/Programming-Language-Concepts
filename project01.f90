@@ -1,3 +1,7 @@
+! Project 01
+! CSE4250 Programming Language Concepts
+! Matteo Caruso, Emma Bahr, Joshua Cajuste
+
 program solve_problem
     implicit none
     integer :: N, t, i
